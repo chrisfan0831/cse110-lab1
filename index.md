@@ -3,6 +3,7 @@
 ![photo](Images/image.png)
 
 **Email:** sfan@ucsd.edu
+
 **More about me:**
 
 1. [My education experience](#education)
@@ -21,32 +22,32 @@
 
 **Programming Language:**
 >
->Python
->C++
+>Python\
+>C++\
 >SQL
 
 **Tool & Package:**
 >
->Sci-kit Learn
->TensorFlow
+>Sci-kit Learn\
+>TensorFlow\
 >OCI Data Science
 
 ## Favourites
 
 **Instrument:**
->Piano
+>Piano\
 >Guitar
 
 **Game:**
->League of Legends
+>League of Legends\
 >CSGO
 
 **Sport:**
->Basketball
+>Basketball\
 >Badminton
 
 **Programming Language:**
 >[README.md](README.md)
 
-**Code:**
+**Code:**\
 `import numpy as np`
