@@ -30,6 +30,7 @@
 >
 >Sci-kit Learn\
 >TensorFlow\
+>OpenCV\
 >OCI Data Science
 
 ## Favourites
@@ -51,3 +52,10 @@
 
 **Code:**\
 `import numpy as np`
+
+## Everyday Life
+
+- [ ] learning
+- [ ] coding
+- [ ] gaming
+- [ ] sleeping
